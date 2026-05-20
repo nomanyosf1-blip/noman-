@@ -1,0 +1,8 @@
+{
+  "name": "حارس - بوت حماية ديسكورد",
+  "description": "نظام حماية متكامل لسيرفرات الديسكورد مع لوحة تحكم سهلة الاستخدام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
